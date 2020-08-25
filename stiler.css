@@ -71,19 +71,19 @@ a:link {
 }
 
 a:visited {
-  color: pink;
+  color: gray;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: blue;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: yellow;
+  color: blue;
   background-color: transparent;
   text-decoration: underline;
 }
