@@ -19,23 +19,14 @@ header {
 nav {
   float: left;
   width: 10%;
-  height: 300px; /* only for demonstration, should be removed */
+  height: 350px; /* only for demonstration, should be removed */
   background: #003459;
   padding: 20px;
 }
-nav {
-  float: right;
-  width: 10%;
-  height: 300px; /* only for demonstration, should be removed */
-  background: #003459;
-  padding: 20px;
-}
-/* Style the list inside the menu */
 nav ul {
   list-style-type: none;
   padding: 0;
 }
-
 article {
   float: left;
   padding: 20px;
@@ -43,7 +34,13 @@ article {
   background-color: #f1f1f1;
   height: 350px; /* only for demonstration, should be removed */
 }
-
+nav {
+  float: right;
+  width: 10%;
+  height: 350px; /* only for demonstration, should be removed */
+  background: #003459;
+  padding: 20px;
+}
 /* Clear floats after the columns */
 section:after {
   content: "";
