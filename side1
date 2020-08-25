@@ -76,21 +76,21 @@ footer {
 <p>Resize the browser window to see the responsive effect (you will learn more about this in our next chapter - HTML Responsive.)</p>
 
 <header>
-  <h2>Cities</h2>
+  <h2>Data I landbruket</h2>
 </header>
 
 <section>
   <nav>
     <ul>
-      <li><a href="homepage">Home</a></li>
-      <li><a href="side1">side1</a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="side1.html">side1</a></li>
       <li><a href="side2.html">side2</a></li>
     </ul>
   </nav>
 
   <article>
-    <h1>side2</h1>
-
+    <h1>Side1</h1>
+  
   </article>
 </section>
 
