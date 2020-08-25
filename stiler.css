@@ -8,7 +8,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #AEA7A0;
+  background-color: #0E1414;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -20,10 +20,16 @@ nav {
   float: left;
   width: 10%;
   height: 300px; /* only for demonstration, should be removed */
-  background: #AEA7A0;
+  background: #003459;
   padding: 20px;
 }
-
+nav {
+  float: right;
+  width: 10%;
+  height: 300px; /* only for demonstration, should be removed */
+  background: #003459;
+  padding: 20px;
+}
 /* Style the list inside the menu */
 nav ul {
   list-style-type: none;
@@ -33,9 +39,9 @@ nav ul {
 article {
   float: left;
   padding: 20px;
-  width: 90%;
+  width: 80%;
   background-color: #f1f1f1;
-  height: 300px; /* only for demonstration, should be removed */
+  height: 350px; /* only for demonstration, should be removed */
 }
 
 /* Clear floats after the columns */
@@ -47,7 +53,7 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #AEA7A0;
+  background-color: #0E1414;
   padding: 10px;
   text-align: center;
   color: white;
