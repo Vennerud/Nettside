@@ -71,9 +71,7 @@ footer {
 </head>
 <body>
 
-<h2>CSS Layout Float</h2>
-<p>In this example, we have created a header, two columns/boxes and a footer. On smaller screens, the columns will stack on top of each other.</p>
-<p>Resize the browser window to see the responsive effect (you will learn more about this in our next chapter - HTML Responsive.)</p>
+
 
 <header>
   <h2>Data I landbruket</h2>
@@ -82,15 +80,15 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="side1.html">side1</a></li>
+      <li><a href="homepage">Home</a></li>
+      <li><a href="side1">side1</a></li>
       <li><a href="side2.html">side2</a></li>
     </ul>
   </nav>
 
   <article>
     <h1>Side1</h1>
-  
+
   </article>
 </section>
 
