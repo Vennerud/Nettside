@@ -16,10 +16,8 @@
 <?php include `nav.php` ?>
   <article>
     <h1>Side1</h1>
-
   </article>
 </section>
-
 <footer>
   <p>Footer</p>
 </footer>
