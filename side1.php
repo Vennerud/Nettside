@@ -13,7 +13,7 @@
   <h2>Sikkerhetssystemer&#128272</h2>
 </header>
 <section>
-<?php include `nav.php` ?>
+<?php include `nav.php`?>
   <article>
     <h1>Side1</h1>
   </article>
