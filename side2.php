@@ -9,22 +9,11 @@
 </style>
 </head>
 <body>
-
-
-
 <header>
   <h2>Sikkerhetssystemer&#128272</h2>
 </header>
-
 <section>
-  <nav>
-    <ul>
-      <li><a href="homepage.html">Home</a></li>
-      <li><a href="side1.html">side1</a></li>
-      <li><a href="side2.html">side2</a></li>
-    </ul>
-  </nav>
-
+  <?php include `nav.php` ?>
   <article>
     <h1>side2</h1>
 
